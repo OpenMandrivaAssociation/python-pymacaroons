@@ -1,6 +1,6 @@
 Name:		python-pymacaroons
 Version:	0.13.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/pymacaroons/pymacaroons-%{version}.tar.gz
 Summary:	Macaroon library for Python
 URL:		https://pypi.org/project/pymacaroons/
